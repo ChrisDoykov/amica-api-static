@@ -56,5 +56,6 @@
   "noReplyToEmail": "Please do not reply directly to this email as this inbox is unmonitored and your messages will not reach the Amica Consult team. Please use our social networks below or our email to contact us. Thank you for your understanding.",
   "alertListings.subject_one": "There's a new listing that matches your alert",
   "alertListings.subject_other": "There are {{count}} new listings that match your alert",
-  "noNewListingsForAlert.subject": "There are no new listings that match your alert"
+  "noNewListingsForAlert.subject": "There are no new listings that match your alert",
+  "updateForYourAlert": "UPDATE FOR YOUR ALERT"
 }
