@@ -59,5 +59,7 @@
   "noNewListingsForAlert.subject": "There are no new listings that match your alert",
   "updateForYourAlert": "UPDATE FOR YOUR ALERT",
   "itsPossible": "It's possible that matching listings will get added soon but you could also create a new alert with different search criteria.",
-  "or": "OR"
+  "or": "OR",
+  "newListingThatMatches_one": "NEW LISTING THAT MATCHES YOUR ALERT",
+  "newListingThatMatches_other": "NEW LISTINGS THAT MATCH YOUR ALERT"
 }
